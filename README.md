@@ -2,7 +2,7 @@
 
 <img width="293" height="459" alt="extensionBlogLogo" src="https://github.com/user-attachments/assets/9e4be8df-8da2-4a86-9ac7-0ab34b56c41e" />
 
-This is a tool, based on the Wild West Hackin' Fest 2025 Mile High talk by WithSecure under the same title.
+This is a tool, based on the Wild West Hackin' Fest 2025 Mile High talk by WithSecure under the same title - https://www.youtube.com/watch?v=BiXGaGX1Zhk.
 
 This tool has 5 distinct functionalities:
 
