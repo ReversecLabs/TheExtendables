@@ -44,7 +44,7 @@ This should produce a `.crx` and a `.pem` file, we only care about the `.crx` fi
 
 ![](../images/2-get_extensionID.png)
 
-5. Now navigate to the following folder, with the ID which you just noted down - `%LOCALAPPDATA%\Local\Google\Chrome\User Data\Default\Extensions\<ID>`.
+5. Now navigate to the following folder, with the ID which you just noted down - `%LOCALAPPDATA%\Google\Chrome\User Data\Default\Extensions\<ID>`.
 
 6. Within this folder, find the `manifest.json` and copy the contents over the original.
 
